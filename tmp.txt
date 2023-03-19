@@ -1,0 +1,179 @@
+
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-A-Courses" title="Bachelor of Arts (B.A) ">Bachelor of Arts (B.A)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-A-_B-Ed-Courses" title="Bachelor of Arts Bachelor of Education (B.A. B.Ed) ">Bachelor of Arts Bachelor of Education (B.A. B.Ed)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-A-B-L-Courses" title="Bachelor of Arts Bachelor of Law (B.A.B.L) ">Bachelor of Arts Bachelor of Law (B.A.B.L)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-A-LLB-Courses" title="Bachelor of Arts Bachelor of Law (B.A.LLB) ">Bachelor of Arts Bachelor of Law (B.A.LLB)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-A-M-S-Courses" title="Bachelor of Ayurvedic Medicine and Surgery (B.A.M.S) ">Bachelor of Ayurvedic Medicine and Surgery (B.A.M.S)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-A-S-Courses" title="Bachelor of Applied Sciences (B.A.S) ">Bachelor of Applied Sciences (B.A.S)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-A-S-L-P-Courses" title="Bachelor of Arts (B.A.S.L.P) ">Bachelor of Arts (B.A.S.L.P)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-A-S-L-P-Courses" title="Bachelor of Audiology and Speech Language Pathology (B.A.S.L.P) ">Bachelor of Audiology and Speech Language Pathology (B.A.S.L.P)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-Arch-Courses" title="Bachelor of Architecture (B.Arch) ">Bachelor of Architecture (B.Arch)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-B-A-Courses" title="Bachelor of Business Administration (B.B.A) ">Bachelor of Business Administration (B.B.A)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-B-A_LL-B-Courses" title="Bachelor of Business Administration Bachelor of Law (B.B.A LL.B) ">Bachelor of Business Administration Bachelor of Law (B.B.A LL.B)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-B-M-Courses" title="Bachelor of Business Management (B.B.M) ">Bachelor of Business Management (B.B.M)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-B-S-Courses" title="Bachelor of Business Studies (B.B.S) ">Bachelor of Business Studies (B.B.S)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-C-A-Courses" title="Bachelor of Computer Applications (B.C.A) ">Bachelor of Computer Applications (B.C.A)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-C-J-Courses" title="Bachelor of Communication Journalism (B.C.J) ">Bachelor of Communication Journalism (B.C.J)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-C-S-Courses" title="Bachelor of Computer Science (B.C.S) ">Bachelor of Computer Science (B.C.S)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-Com-Courses" title="Bachelor of Commerce (B.Com) ">Bachelor of Commerce (B.Com)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-D-Courses" title="Bachelor of Divinity (B.D) ">Bachelor of Divinity (B.D)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-D-S-Courses" title="Bachelor of Dental Surgery (B.D.S) ">Bachelor of Dental Surgery (B.D.S)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-D-T-Courses" title="Basic Development Therapy (B.D.T) ">Basic Development Therapy (B.D.T)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-Des-Courses" title="Bachelor of Design (B.Des) ">Bachelor of Design (B.Des)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-E-Courses" title="Bachelor of Engineering (B.E) ">Bachelor of Engineering (B.E)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-E-S-Courses" title="Bachelor of Electronic Science (B.E.S) ">Bachelor of Electronic Science (B.E.S)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-Ed-Courses" title="Bachelor of Education (B.Ed) ">Bachelor of Education (B.Ed)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-Ed_AI-Courses" title="Bachelor of education in Artificial Intelligence (B.Ed AI) ">Bachelor of education in Artificial Intelligence (B.Ed AI)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-EdQ-Courses" title="Bachelor of Education (B.EdQ) ">Bachelor of Education (B.EdQ)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-EI-ED-Courses" title="Bachelor of Elementary Education (B.EI.ED) ">Bachelor of Elementary Education (B.EI.ED)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-EL-Ed-Courses" title="Bachelor of Elementary Education (B.EL.Ed) ">Bachelor of Elementary Education (B.EL.Ed)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-F-A-Courses" title="Bachelor of Fine Arts (B.F.A) ">Bachelor of Fine Arts (B.F.A)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-F-I-A-Courses" title="Bachelor of Financial Investment and Analysis (B.F.I.A) ">Bachelor of Financial Investment and Analysis (B.F.I.A)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-F-S-Courses" title="Bachelor of Fishery Sciences (B.F.S) ">Bachelor of Fishery Sciences (B.F.S)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-F-Tech-Courses" title="Bachelor of Fashion Technology (B.F.Tech) ">Bachelor of Fashion Technology (B.F.Tech)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-G-L-Courses" title="Bachelor of General Law (B.G.L) ">Bachelor of General Law (B.G.L)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-H-Ed-Courses" title="Behavioral Healthcare Education (B.H.Ed) ">Behavioral Healthcare Education (B.H.Ed)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-H-M-Courses" title="Bachelor of Hotel Management (B.H.M) ">Bachelor of Hotel Management (B.H.M)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-H-M-C-T-Courses" title="Bachelor Hotel Management and Catering Technology (B.H.M.C.T) ">Bachelor Hotel Management and Catering Technology (B.H.M.C.T)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-H-M-S-Courses" title="Bachelor of Homeopathic Medicine And Surgery (B.H.M.S) ">Bachelor of Homeopathic Medicine And Surgery (B.H.M.S)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-H-T-M-Courses" title="Bachelor of Hospitality and Tourism Management (B.H.T.M) ">Bachelor of Hospitality and Tourism Management (B.H.T.M)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-I-S-M-Courses" title="Bachelor of Information Systems Management (B.I.S.M) ">Bachelor of Information Systems Management (B.I.S.M)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-L-Courses" title="Bachelor of Laws (B.L) ">Bachelor of Laws (B.L)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-L-I-S-Courses" title="Bachelor of Library and Information Science (B.L.I.S) ">Bachelor of Library and Information Science (B.L.I.S)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-L-M-Courses" title="Bachelor of Labour Management (B.L.M) ">Bachelor of Labour Management (B.L.M)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-L-Sc-Courses" title="Bachelor Library Science (B.L.Sc) ">Bachelor Library Science (B.L.Sc)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-Lit-Courses" title="Bachelor of Literature (B.Lit) ">Bachelor of Literature (B.Lit)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-M-L-T-Courses" title="Bachelor of Medical Laboratory Technology (B.M.L.T) ">Bachelor of Medical Laboratory Technology (B.M.L.T)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-M-R-Courses" title="Bachelor of Mental Retardation (B.M.R) ">Bachelor of Mental Retardation (B.M.R)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-M-R-Sc-Courses" title="Bachelor of Medical Record Science (B.M.R.Sc) ">Bachelor of Medical Record Science (B.M.R.Sc)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-M-Sc-Courses" title="Bachelor in Mobility Science (B.M.Sc) ">Bachelor in Mobility Science (B.M.Sc)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-M-Sc-Courses" title="Bachelor of Mobility Science (B.M.Sc) ">Bachelor of Mobility Science (B.M.Sc)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-M-T-Courses" title="Bachelor of Medical Technology (B.M.T) ">Bachelor of Medical Technology (B.M.T)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-N-Y-Sc-Courses" title="Bachelor of Naturopathy and Yogic Sciences (B.N.Y.Sc) ">Bachelor of Naturopathy and Yogic Sciences (B.N.Y.Sc)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-O-T-Courses" title="Bachelor of Occupational Therapy (B.O.T) ">Bachelor of Occupational Therapy (B.O.T)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-O-Th-Courses" title="Bachelor of Occupational Therapy (B.O.Th) ">Bachelor of Occupational Therapy (B.O.Th)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-Optom-Courses" title="Bachelor of Optometry and Vision Science (B.Optom) ">Bachelor of Optometry and Vision Science (B.Optom)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-P-E-Courses" title="Bachelor of Physical Education (B.P.E) ">Bachelor of Physical Education (B.P.E)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-P-Ed-Courses" title="Bachelor Of Physical Education (B.P.Ed) ">Bachelor Of Physical Education (B.P.Ed)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-P-O-Courses" title="Bachelor in Prosthetics and Orthotics (B.P.O) ">Bachelor in Prosthetics and Orthotics (B.P.O)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-P-R-Courses" title="Bachelor of Public Relations (B.P.R) ">Bachelor of Public Relations (B.P.R)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-P-T-Courses" title="Bachelor of Physiotherapy (B.P.T) ">Bachelor of Physiotherapy (B.P.T)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-Pharma-Courses" title="Bachelor of Pharmacy (B.Pharma) ">Bachelor of Pharmacy (B.Pharma)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-R-T-Courses" title="Bachelor of Rehabilitation Therapy (B.R.T) ">Bachelor of Rehabilitation Therapy (B.R.T)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-S-Courses" title="Bachelor of Science (B.S) ">Bachelor of Science (B.S)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-S-E-Courses" title="Bachelor in Science Education (B.S.E) ">Bachelor in Science Education (B.S.E)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-S-L-A-Courses" title="Bachelor of Speech Language And Audiology (B.S.L.A) ">Bachelor of Speech Language And Audiology (B.S.L.A)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-S-L-LL-B-Courses" title="Bachelor of Socio Legal Sciences Bachelor of Laws (B.S.L.LL.B) ">Bachelor of Socio Legal Sciences Bachelor of Laws (B.S.L.LL.B)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-S-M-S-Courses" title="Bachelor of Siddha Medical Sciences (B.S.M.S) ">Bachelor of Siddha Medical Sciences (B.S.M.S)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-S-W-Courses" title="Bachelor Of Social Work (B.S.W) ">Bachelor Of Social Work (B.S.W)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-Sc-Courses" title="Bachelor of Science (B.Sc) ">Bachelor of Science (B.Sc)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-Sc-B-Ed-Courses" title="Bachelor of Science Bachelor of Education (B.Sc.B.Ed) ">Bachelor of Science Bachelor of Education (B.Sc.B.Ed)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-Sc-Ed-Courses" title="Bachelor of Science in Education (B.Sc.Ed) ">Bachelor of Science in Education (B.Sc.Ed)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-T-A-Courses" title="Bachelor of Tourism Administration (B.T.A) ">Bachelor of Tourism Administration (B.T.A)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-T-C-Courses" title="Basic Training Certificate (B.T.C) ">Basic Training Certificate (B.T.C)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-Tech-Courses" title="Bachelor of Technology (B.Tech) ">Bachelor of Technology (B.Tech)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-Tech-Courses" title="Bachelors of Technology (B.Tech) ">Bachelors of Technology (B.Tech)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-U-M-S-Courses" title="Bachelor of Unani Medicine And Surgery (B.U.M.S) ">Bachelor of Unani Medicine And Surgery (B.U.M.S)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=B-V-Sc-Courses" title="Bachelor of Veterinary Science (B.V.Sc) ">Bachelor of Veterinary Science (B.V.Sc)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=Bachelor_of_Medicine-Courses" title="Bachelor of Medicine (Bachelor of Medicine) ">Bachelor of Medicine (Bachelor of Medicine)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=BJMC-Courses" title="Bachelor of Journalism and Mass Communication (BJMC) ">Bachelor of Journalism and Mass Communication (BJMC)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=D-S-E_(CP)-Courses" title="Diploma in Special Education (D.S.E (CP)) ">Diploma in Special Education (D.S.E (CP))</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=Kamil_e_Tob_o_Jarahat-Courses" title="Bachelor of Unani Medicine And Surgery (Kamil e Tob o Jarahat) ">Bachelor of Unani Medicine And Surgery (Kamil e Tob o Jarahat)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=LL-B-Courses" title="Bachelor of Law (LL.B) ">Bachelor of Law (LL.B)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=M-B-B-S-Courses" title="Bachelor of Medicine Bachelor of Surgery (M.B.B.S) ">Bachelor of Medicine Bachelor of Surgery (M.B.B.S)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=MJMC-Courses" title="Master of Journalism and Mass Communication (MJMC) ">Master of Journalism and Mass Communication (MJMC)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=Ph-_D-Courses" title="Doctor of Philosophy (Ph. D) ">Doctor of Philosophy (Ph. D)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=Psy-D_(Cl-Psy)-Courses" title="Clinical Psychology (Psy.D (Cl.Psy)) ">Clinical Psychology (Psy.D (Cl.Psy))</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=U-G-B-T-Courses" title="Under Graduate Basic Training (U.G.B.T) ">Under Graduate Basic Training (U.G.B.T)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=U-G-T-Courses" title="Under Graduate Training (U.G.T) ">Under Graduate Training (U.G.T)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=U-G-T-T-Courses" title="Under Graduate Teacher Training (U.G.T.T) ">Under Graduate Teacher Training (U.G.T.T)</a></li>
+    
+    <li><a href="http://www.studyguideindia.com/Courses/default.asp?Course=UG-Courses" title="Under Graduate (UG) ">Under Graduate (UG)</a></li>
+    

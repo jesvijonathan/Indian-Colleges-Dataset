@@ -1,0 +1,22 @@
+      
+                <li class="col-xs-12 col-sm-12 col-md-6 col-lg-6"><a href="https://www.indiacollegeshub.com/courses/doctor-of-medicine-courses.aspx" title="Doctor of Medicine (D.M) ">Doctor of Medicine (D.M) </a></li>
+            
+                <li class="col-xs-12 col-sm-12 col-md-6 col-lg-6"><a href="https://www.indiacollegeshub.com/courses/diploma-courses.aspx" title="Diploma (Diploma) ">Diploma (Diploma) </a></li>
+            
+                <li class="col-xs-12 col-sm-12 col-md-6 col-lg-6"><a href="https://www.indiacollegeshub.com/courses/doctor-of-medicine-courses.aspx" title="Doctor of Medicine (M.D) ">Doctor of Medicine (M.D) </a></li>
+            
+                <li class="col-xs-12 col-sm-12 col-md-6 col-lg-6"><a href="https://www.indiacollegeshub.com/courses/doctor-of-medicine-in-ayurveda-courses.aspx" title="Doctor of Medicine in Ayurveda (M.D.Ayurveda) ">Doctor of Medicine in Ayurveda (M.D.Ayurveda) </a></li>
+            
+                <li class="col-xs-12 col-sm-12 col-md-6 col-lg-6"><a href="https://www.indiacollegeshub.com/courses/doctor-of-medicine-in-homoeo-courses.aspx" title="Doctor of Medicine in Homoeo (M.D.Homoeo) ">Doctor of Medicine in Homoeo (M.D.Homoeo) </a></li>
+            
+                <li class="col-xs-12 col-sm-12 col-md-6 col-lg-6"><a href="https://www.indiacollegeshub.com/courses/master-of-dental-surgery-courses.aspx" title="Master of Dental Surgery (M.D.S) ">Master of Dental Surgery (M.D.S) </a></li>
+            
+                <li class="col-xs-12 col-sm-12 col-md-6 col-lg-6"><a href="https://www.indiacollegeshub.com/courses/doctor-of-medicine-in-siddha-courses.aspx" title="Doctor of Medicine in Siddha (M.D.Siddha) ">Doctor of Medicine in Siddha (M.D.Siddha) </a></li>
+            
+                <li class="col-xs-12 col-sm-12 col-md-6 col-lg-6"><a href="https://www.indiacollegeshub.com/courses/doctor-of-medicine-in-unani-courses.aspx" title="Doctor of Medicine in Unani (M.D.Unani) ">Doctor of Medicine in Unani (M.D.Unani) </a></li>
+            
+                <li class="col-xs-12 col-sm-12 col-md-6 col-lg-6"><a href="https://www.indiacollegeshub.com/courses/master-of-philosophy-courses.aspx" title="Master of Philosophy (M.Phil) ">Master of Philosophy (M.Phil) </a></li>
+            
+                <li class="col-xs-12 col-sm-12 col-md-6 col-lg-6"><a href="https://www.indiacollegeshub.com/courses/master-of-science-courses.aspx" title="Master of Science (M.S) ">Master of Science (M.S) </a></li>
+            
+                <li class="col-xs-12 col-sm-12 col-md-6 col-lg-6"><a href="https://www.indiacollegeshub.com/courses/doctor-of-philosophy-courses.aspx" title="Doctor of Philosophy (Ph.D) ">Doctor of Philosophy (Ph.D) </a></li>
