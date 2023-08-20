@@ -4,66 +4,59 @@ import json
 import pandas as pd
 import numpy
 
-# os.chdir("./")
-# files = []
-# for file in glob.glob("*.json"):
-#     files.append(file)
+os.chdir("./")
+files = []
+for file in glob.glob("*.json"):
+    files.append(file)
 
-# print(files)
-
-
-# #
-# # Create the pandas DataFrame with column name is provided explicitly
-# df = pd.DataFrame(columns=['name', 'city', 'state',
-#                   'nirfRank', 'rank'])
+print(files)
 
 
-# # print dataframe.
-# df
+#
+# Create the pandas DataFrame with column name is provided explicitly
+df = pd.DataFrame(columns=['name', 'city', 'state',
+                  'nirfRank', 'rank'])
 
-# for j in files:
-#     f = open(j)
-#     data = json.load(f)
 
-#     for i in data:
-#         if ("name" in i):
-#             new_row = pd.Series({
-#                 'name': str(i.get("name", numpy.NaN)),
-#                 'city': str(i.get("city", numpy.NaN)),
-#                 'state': str(i.get("state", numpy.NaN)),
-#                 'nirfRank': str(i.get("nirfRank",   numpy.NaN)),
-#                 'rank': str(i.get("rank", numpy.NaN)),
-#             })
-#         else:
-#             break
-#         df = pd.concat([
-#             df,
-#             pd.DataFrame([new_row], columns=new_row.index)]
-#         ).reset_index(drop=True)
+# print dataframe.
+df
 
-#         print(i)
+for j in files:
+    f = open(j)
+    data = json.load(f)
 
-#     f.close()
+    for i in data:
+        if ("name" in i):
+            new_row = pd.Series({
+                'name': str(i.get("name", numpy.NaN)),
+                'city': str(i.get("city", numpy.NaN)),
+                'state': str(i.get("state", numpy.NaN)),
+                'nirfRank': str(i.get("nirfRank",   numpy.NaN)),
+                'rank': str(i.get("rank", numpy.NaN)),
+            })
+        else:
+            break
+        df = pd.concat([
+            df,
+            pd.DataFrame([new_row], columns=new_row.index)]
+        ).reset_index(drop=True)
 
-# df = df.drop_duplicates(subset=["name", "city", "state"], keep="last")
-# # Keep rows with non-null values in "nirfRank" or "rank" columns
-# df = df[~(df["nirfRank"].isnull() & df["rank"].isnull())]
-# # Sort the DataFrame by "name"
-# df.sort_values("name", inplace=True)
-# # Reset index
-# df.reset_index(drop=True, inplace=True)
-# # Save the result to a CSV file
-# df.to_csv('college_filtered.csv', index=False)
+        print(i)
+
+    f.close()
+
+df = df.drop_duplicates(subset=["name", "city", "state"], keep="last")
+# Keep rows with non-null values in "nirfRank" or "rank" columns
+df = df[~(df["nirfRank"].isnull() & df["rank"].isnull())]
+# Sort the DataFrame by "name"
+df.sort_values("name", inplace=True)
+# Reset index
+df.reset_index(drop=True, inplace=True)
+# Save the result to a CSV file
+df.to_csv('college_filtered.csv', index=False)
 
 # df.to_csv('data.csv')
 
-
-df = pd.read_csv('course_data.csv')
-# remove first column
-
-df.sort_values("course", inplace=True)
-# dont index the first column
-df.to_csv('course_filtered.csv', index=False)
 
 # df.reset_index(drop=True, inplace=True)
 # df.to_csv('course_filtered.csv')
